@@ -1,8 +1,5 @@
 /*
  * Program Name: Registry.java
- * Student Name: Anneth Sivakumar
- * Student Number: 20320973
- * Date: August 01, 2023
  * Description: This class represents a registry that holds a collection of business objects.
  * It provides methods to add businesses to the registry, print information about the businesses in the registry, 
  * and calculate the average daily sales and average yearly sales of all the businesses in the registry.
