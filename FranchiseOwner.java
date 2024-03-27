@@ -1,8 +1,5 @@
 /*
  * Program Name: FranchiseOwner.java
- * Student Name: Anneth Sivakumar
- * Student Number: 20320973
- * Date: August 01, 2023
  * Description: This class represents a Franchise Owner and stores information such as the owner's name, age, and years of experience in the business industry. 
  */
 public class FranchiseOwner {
