@@ -1,8 +1,5 @@
 /*
  * Program Name: Supermarket.java
- * Student Name: Anneth Sivakumar
- * Student Number: 20320973
- * Date: August 01, 2023
  * Description: This class represents a supermarket franchise, which is a specific type of business. 
  * It inherits attributes and behaviors from the Business class and extends it to include additional 
  * features specific to supermarkets, such as the number of products in the store inventory, 
