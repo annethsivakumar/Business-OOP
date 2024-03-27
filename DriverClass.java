@@ -1,8 +1,5 @@
 /*
  * Program Name: DriverClass.java
- * Student Name: Anneth Sivakumar
- * Student Number: 20320973
- * Date: August 01, 2023
  * Description: This is the main driver class that demonstrates the use of the classes and their functionalities in the business management system.
  */
 
