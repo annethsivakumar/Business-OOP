@@ -1,8 +1,5 @@
 /*
  * Program Name: BusinessException.java
- * Student Name: Anneth Sivakumar
- * Student Number: 20320973
- * Date: August 01, 2023
  * Description: This class represents a custom exception, used to handle errors that may occur in the application.
  */
 public class IllegalBusiness extends Exception{
