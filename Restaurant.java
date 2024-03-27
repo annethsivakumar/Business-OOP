@@ -1,8 +1,5 @@
 /*
  * Program Name: Restaurant.java
- * Student Name: Anneth Sivakumar
- * Student Number: 20320973
- * Date: August 01, 2023
  * Description: This class represents a restaurant franchise, which is a specific type of business. 
  * It inherits attributes and behaviors from the Business class and extends it to include additional 
  * features specific to restaurants, such as drive-thru availability, mobile ordering, list of meals served, restaurant rating, and number of seats.
