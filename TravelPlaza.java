@@ -1,8 +1,5 @@
 /*
  * Program Name: TravelPlaza.java
- * Student Name: Anneth Sivakumar
- * Student Number: 20320973
- * Date: August 01, 2023
  * Description: This class represents a travel plaza franchise, which is a specific type of business. 
  * It inherits attributes and behaviors from the Business class and extends it to include additional features
  * specific to travel plazas, such as dining options, shopping options, and fuel services availability.
