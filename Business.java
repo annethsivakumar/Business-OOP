@@ -1,8 +1,5 @@
 /*
  * Program Name: Business.java
- * Student Name: Anneth Sivakumar
- * Student Number: 20320973
- * Date: August 01, 2023
  * Description: This class represents a business franchise and stores information such as registration number, franchise owner, year of establishment, daily sales, and annual sales. 
  */
 public class Business {
